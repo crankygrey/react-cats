@@ -19,9 +19,9 @@ export const robots = [
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Steven',
+    username: 'Steven',
+    email: 'Steven@gmail.com'
   },
   {
     id: 5,
